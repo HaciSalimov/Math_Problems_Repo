@@ -1,5 +1,6 @@
 # Solution for Task 2: Electrical Circuit and Events
 
+
 ## Problem Statement
 Consider an electrical circuit in which element $a_1$ is connected in series with a block consisting of two elements $a_2$ and $a_3$ connected in parallel. 
 Let $A_i$ (for $i=1, 2, 3$) denote the event "element $a_i$ is functional at time $t$".

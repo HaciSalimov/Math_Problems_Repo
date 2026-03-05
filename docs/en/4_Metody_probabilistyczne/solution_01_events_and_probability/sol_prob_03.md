@@ -1,5 +1,6 @@
 # Solution for Task 3: Classical Probability and Sample Space
 
+
 ## Problem Statement
 Person $X$ performs a certain job in 4, 5, or 6 hours and may commit 0, 1, or 2 errors. Assuming equal probability for each of the 9 possible elementary events (pairs: time, number of errors), we need to find the probabilities of specific events.
 
