@@ -1,5 +1,8 @@
 # Solution for Task 1: Basic Operations on Events
 
+
+
+
 ## Problem Statement
 Given the sample space $\Omega = \{\omega_1, \omega_2, \omega_3, \omega_4, \omega_5\}$ and events:
 - $A = \{\omega_1, \omega_3, \omega_5\}$
