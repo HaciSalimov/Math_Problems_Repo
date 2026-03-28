@@ -371,3 +371,10 @@ Explain in your own words how the following three levels are connected:
 1. elementary outcomes and events,
 2. observed frequencies from a real experiment,
 3. probability as a mathematical abstraction built from those observations.
+
+
+## Problem 6 — Final discussion: the axiomatic point of view
+
+Using everything developed in the previous problems, write a short discussion of the axiomatic formulation of probability. State and comment on the Kolmogorov axioms, explain which of their features were already suggested by our earlier work with events and observed frequencies, and indicate clearly what goes beyond those earlier finite considerations.
+
+In particular, discuss why non-negativity, normalization, and finite additivity for disjoint events appear naturally in the framework we have built, and why countable additivity is a more subtle principle that is not directly obtained from finite experiments or finite sample spaces.
